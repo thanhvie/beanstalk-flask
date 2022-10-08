@@ -4,4 +4,7 @@ Run these following steps:
 2. `eb create flask-env`
 3.  `eb open`
 
+Terminal environment:
+4. `eb terminate flask-env`
+
 Read AWS Document at https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-flask.html
